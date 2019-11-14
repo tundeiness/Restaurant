@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/tundeiness/Restaurant/issues"
   },
-  "homepage": "https://github.com/tundeiness/Restaurant#readme"
+  "homepage": "https://github.com/tundeiness/Restaurant#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  }
 }
