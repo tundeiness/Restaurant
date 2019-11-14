@@ -1,4 +1,5 @@
 # Restaurant
+
 A Restaurant page created using webpack, and javascript classes
 The Restaurant page project was created by the [Author](https://www.linkedin.com/in/tunde-oretade/) to show the understanding of the benefits of
 modularized code as well as the ability to set up a javascript application made
