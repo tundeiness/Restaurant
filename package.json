@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "A Restaurant page created using webpack and other ES6 javascript concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tundeiness/Restaurant.git"
+  },
+  "keywords": [
+    "Restaurant",
+    "ES6",
+    "webpack",
+    "modules"
+  ],
+  "author": "Tunde Oretade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tundeiness/Restaurant/issues"
+  },
+  "homepage": "https://github.com/tundeiness/Restaurant#readme"
+}
