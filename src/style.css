@@ -1,0 +1,34 @@
+#content {
+   /* height: 20rem; */
+  /* background-color: forestgreen; */
+  /* background:rgba(255,255,255,0.5); */
+
+  /* background: rgba(255, 255, 255, .5) url('/img/andy-falconer-unsplash.jpg') 0 0 no-repeat; */
+
+
+  /* background-size: auto 200%; */
+  background: linear-gradient(45deg, black, gray);
+  opacity: 0.9;
+}
+
+.navy{
+  /* margin-left: 68rem; */
+  border-bottom: none;
+}
+
+.nav-tabs {
+   border-bottom: none !important;
+}
+
+#nav-tabContent{
+  border-top: 1px solid white;
+  color: white;
+}
+
+.logo{
+  border: 1px solid white;
+  height: 5rem;
+}
+
+
+

@@ -1,1 +1,3 @@
-alert('I clicked!!');
+import 'bootstrap';
+
+// alert('I clicked!!');
