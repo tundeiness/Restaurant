@@ -25,6 +25,15 @@
    border-bottom: none !important;
 }
 
+/* container for logo */
+.logo-container{
+  /* height:5rem; */
+}
+
+.logo-img{
+
+}
+
 #nav-tabContent{
   border-top: 1px solid white;
   color: white;
