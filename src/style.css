@@ -48,6 +48,15 @@
 
 /* Menu */
 
+.card{
+  width: 17rem;
+  /* max-height: 22rem !important; */
+}
+
+.card-body{
+  color: black !important;
+}
+
 .cuisine-banner{
   border: 1px solid white;
   color: black;
@@ -62,3 +71,9 @@
   /* width: 25rem; */
 }
 
+/* Contact */
+
+.card-contact {
+  /* max-width: 540px; */
+  width: 50rem;
+}
