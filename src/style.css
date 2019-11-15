@@ -3,12 +3,17 @@
   /* background-color: forestgreen; */
   /* background:rgba(255,255,255,0.5); */
 
-  /* background: rgba(255, 255, 255, .5) url('/img/andy-falconer-unsplash.jpg') 0 0 no-repeat; */
+   background-image: url('/img/andy-falconer-unsplash.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   height: 100vh;
 
 
   /* background-size: auto 200%; */
-  background: linear-gradient(45deg, black, gray);
-  opacity: 0.9;
+  /* background: linear-gradient(45deg, black, gray); */
+  /* opacity: 0.9; */
 }
 
 .navy{
