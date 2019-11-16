@@ -1,6 +1,9 @@
 import 'bootstrap';
 import './style.css';
 import home from './home';
-// alert('I clicked!!');
-// home.render();
+import contact from './contact';
+
+
 document.getElementById('nav-home').appendChild(home);
+document.getElementById('nav-contact').appendChild(contact);
+// document.getElementById('nav-contact').addEventListener('click', contact);
