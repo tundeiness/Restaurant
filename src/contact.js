@@ -18,7 +18,7 @@ const contact = (() => {
   para.setAttribute('class', 'lead');
   const paraContent = `For personal orders, Parties, Luncheons, </br>
      Symposium and other events where you'd like us to serve you </br>
-     exquisite cuisine from the Mother'Lan call us on the following</br>
+     exquisite cuisine from the Mother'Lan, call us on the following</br>
      phone numbers: `;
   para.innerHTML = `${paraContent} <small class="text-muted"> 091 235 4329 & 213 453 765</small>`;
 

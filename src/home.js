@@ -10,7 +10,8 @@ const home = (() => {
   img.setAttribute('alt', 'restaurant-logo');
 
 
-  return inner.appendChild(img);
+  inner.appendChild(img);
+  return inner;
 })();
 
 export default home;
