@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="/img/logo-3.png" alt="Restaurant Logo" width="80" height="80">
+    <img src="/img/logo-3.png" alt="Restaurant Logo" width="180" height="180">
   </a>
 
   <h1 align="center">Restaurant Page</h1>
