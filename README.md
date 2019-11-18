@@ -22,7 +22,7 @@
   - [License](#license)
   - [Contact](#contact)
 
-
+![Restaurant Page](https://github.com/tundeiness/Restaurant/blob/feature/img/Restaurant.gif)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 

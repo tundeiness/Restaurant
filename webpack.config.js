@@ -31,7 +31,7 @@ module.exports = {
           { loader: 'css-loader' }],
       },
       {
-        test: /\.(jpg|jpeg|png)$/,
+        test: /\.(jpg|jpeg|png|gif)$/,
         use: [
           { loader: 'url-loader' },
         ],
