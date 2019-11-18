@@ -1,4 +1,4 @@
-const menu = (() => {
+const menuTab = (() => {
   const inner = document.createElement('div');
   inner.setAttribute('class', 'inner d-flex flex-row justify-content-around pt-4');
 
@@ -49,4 +49,4 @@ const menu = (() => {
   return inner;
 })();
 
-export default menu;
+export default menuTab;

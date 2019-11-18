@@ -8,4 +8,4 @@ files:
       - 'dist/*'
       - 'src/index.js'
       - 'webpack.config.js'
-      - 'main.js'
+      - 'dist/main.js'
