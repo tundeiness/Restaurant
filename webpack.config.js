@@ -2,8 +2,6 @@
 const path = require('path');
 const TerserPlugin = require('terser-webpack-plugin');
 
-// const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
-
 
 module.exports = {
   entry: './src/index.js',
