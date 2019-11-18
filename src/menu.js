@@ -9,16 +9,16 @@ const menuTab = (() => {
   inner.appendChild(cardContain);
 
   const menus = [{
-    img: '/img/fried-plantain.jpeg', title: 'Fried Plantain', price: '$20', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/fried-plantain.jpeg', title: 'Fried Plantain', price: '$20', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   },
   {
-    img: '/img/Egusi-soup.jpeg', title: 'Egusi Soup', price: '$35', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/Egusi-soup.jpeg', title: 'Egusi Soup', price: '$35', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   },
   {
-    img: '/img/porridge.jpeg', title: 'Yam Porridge', price: '$50', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/porridge.jpeg', title: 'Yam Porridge', price: '$50', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   },
   {
-    img: '/img/vegetable-soup.jpeg', title: 'Vegetable Soup', price: '$120', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/vegetable-soup.jpeg', title: 'Vegetable Soup', price: '$120', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   }];
 
   // first menu

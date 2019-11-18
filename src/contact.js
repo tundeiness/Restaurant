@@ -52,16 +52,16 @@ const contact = (() => {
   const insetFour = document.createElement('i');
 
   insetTwitter.setAttribute('href', '#');
-  insetTwitter.setAttribute('class', 'fab fa-twitter fa-xs fa-sm fa-lg');
+  insetTwitter.setAttribute('class', 'fab fa-twitter fa-lg');
 
   insetFacebook.setAttribute('href', '#');
-  insetFacebook.setAttribute('class', 'fab fa-facebook-square fa-xs fa-sm fa-lg');
+  insetFacebook.setAttribute('class', 'fab fa-facebook-square fa-lg');
 
   insetInsta.setAttribute('href', '#');
-  insetInsta.setAttribute('class', 'fab fa-instagram fa-xs fa-sm fa-lg');
+  insetInsta.setAttribute('class', 'fab fa-instagram fa-lg');
 
   insetFour.setAttribute('href', '#');
-  insetFour.setAttribute('class', 'fab fa-foursquare fa-xs fa-sm fa-lg');
+  insetFour.setAttribute('class', 'fab fa-foursquare fa-lg');
 
 
   twitter.appendChild(insetTwitter);

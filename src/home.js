@@ -6,7 +6,7 @@ const home = (() => {
   const img = document.createElement('img');
 
   img.setAttribute('class', 'img-fluid  d-block logo-img');
-  img.setAttribute('src', '/img/logo-3.png');
+  img.setAttribute('src', 'https://github.com/tundeiness/Restaurant/blob/feature/img/logo-3.png');
   img.setAttribute('alt', 'restaurant-logo');
 
 
