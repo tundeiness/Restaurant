@@ -2,7 +2,7 @@ const menuTab = (() => {
   const inner = document.createElement('div');
   inner.setAttribute('class', 'inner d-flex flex-row justify-content-around pt-4');
 
-  // card container
+  
   const cardContain = document.createElement('div');
   cardContain.setAttribute('class', 'card-deck mb-5');
 
@@ -21,7 +21,7 @@ const menuTab = (() => {
     img: 'https://user-images.githubusercontent.com/25479050/69044322-07293500-09f5-11ea-9133-f27b6c441705.jpeg', title: 'Vegetable Soup', price: '$120', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   }];
 
-  // first menu
+  
 
 
   for (let i = 0; i < menus.length; i += 1) {
