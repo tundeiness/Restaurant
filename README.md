@@ -1,4 +1,3 @@
-# Restaurant Page
 
 <!-- PROJECT LOGO -->
 <br />
