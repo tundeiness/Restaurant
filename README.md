@@ -11,7 +11,7 @@
   <p align="center">
     Restaurant Page built with javascript
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://tundeiness.github.io/Restaurant/">View Demo</a>
   </p>
 </p>
 
