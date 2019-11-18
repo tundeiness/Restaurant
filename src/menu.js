@@ -9,16 +9,16 @@ const menuTab = (() => {
   inner.appendChild(cardContain);
 
   const menus = [{
-    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/fried-plantain.jpeg', title: 'Fried Plantain', price: '$20', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://user-images.githubusercontent.com/25479050/69044120-a4d03480-09f4-11ea-8714-4f895e7a991e.jpeg', title: 'Fried Plantain', price: '$20', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   },
   {
-    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/Egusi-soup.jpeg', title: 'Egusi Soup', price: '$35', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://user-images.githubusercontent.com/25479050/69044190-c4fff380-09f4-11ea-9741-5eda04e49a12.jpeg', title: 'Egusi Soup', price: '$35', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   },
   {
-    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/porridge.jpeg', title: 'Yam Porridge', price: '$50', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://user-images.githubusercontent.com/25479050/69044258-e82aa300-09f4-11ea-9a8e-8e3fe185e347.jpeg', title: 'Yam Porridge', price: '$50', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   },
   {
-    img: 'https://github.com/tundeiness/Restaurant/blob/feature/img/vegetable-soup.jpeg', title: 'Vegetable Soup', price: '$120', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
+    img: 'https://user-images.githubusercontent.com/25479050/69044322-07293500-09f5-11ea-9133-f27b6c441705.jpeg', title: 'Vegetable Soup', price: '$120', text: 'This is a longer card with supporting text below as a natural lead-in to additional content.',
   }];
 
   // first menu
