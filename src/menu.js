@@ -22,8 +22,6 @@ const menuTab = (() => {
   }];
 
 
-
-
   for (let i = 0; i < menus.length; i += 1) {
     const card = document.createElement('div');
     card.setAttribute('class', 'card');
