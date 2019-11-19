@@ -29,7 +29,7 @@ const contact = (() => {
 
   inner.appendChild(horizontal);
 
-  
+
   const twitter = document.createElement('a');
   const facebook = document.createElement('a');
   const instagram = document.createElement('a');
