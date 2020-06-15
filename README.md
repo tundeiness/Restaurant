@@ -21,15 +21,13 @@
     - [Built With](#built-with)
   - [License](#license)
   - [Contact](#contact)
+  - [Live Version](#live-version)
 
 ![Restaurant Page](https://github.com/tundeiness/Restaurant/blob/feature/img/Restaurant.gif)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The Restaurant page project was created by the [Author](https://www.linkedin.com/in/tunde-oretade/) to show the understanding of the benefits of
-modularized code as well as the ability to set up a javascript application made
-of different modules using webpack. It also shows the understanding of the ES6
-class keyword, ES6 modules, and webpack.
+The Restaurant page project was created by the [Author](https://www.linkedin.com/in/tunde-oretade/) to showcase his understanding of the benefits of modularized code as well as his ability to set up a JavaScript application made of different modules using webpack. It also showcases his understanding of the ES6 class keywords, ES6 modules, and webpack.
 
 
 ### Built With
@@ -46,5 +44,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tunde Oretade - [@tundeiness](https://twitter.com/tundeiness) - tundeiness@yahoo.co.uk
-Project Link: [Restaurant Page](https://github.com/tundeiness/Restaurant/tree/feature)
+- Twitter - [@tundeiness](https://twitter.com/tundeiness)
+- Email - [tundeiness@yahoo.co.uk](tundeines@yahoo.co.uk)
+- LinkedIn - [Tunde Oretade](https://www.linkedin.com/in/tunde-oretade/)
+
+## Live Version
+
+[Restaurant Page](https://github.com/tundeiness/Restaurant/tree/feature)
